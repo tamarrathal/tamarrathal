@@ -2,6 +2,10 @@ h2{
   font-weight: 400;
 }
 
+.title{
+  font-size: 18px;
+  margin-bottom: 0;
+}
 .resume-content{
   width: 90%;
   margin-left: auto;
@@ -37,8 +41,14 @@ h2{
   font-size: 18px;
 }
 
-.section .italic{
-  font-style: italic;
+.details{
+  margin-top: 5px;
+  padding-left: 22px;
+}
+
+.details li{
+  margin-top: 0px;
+  font-size: 18px;
 }
 
 .section .right{
