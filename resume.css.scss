@@ -1,0 +1,57 @@
+h2{
+  font-weight: 400;
+}
+
+.resume-content{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border: 1px solid #999;
+  box-shadow: 2px 2px 5px #ccc;
+}
+
+.resume-header{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.email{
+  color: #517a9e;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.resume-body{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section .header{
+  display: inline;
+}
+
+.section .bold{
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.section .italic{
+  font-style: italic;
+}
+
+.section .right{
+  float: right;
+}
+
+.section .header h3{
+}
+
+.section .header p{
+}
+
+.section h2{
+  font-size: 20px;
+  border-bottom: 1px solid #000;
+}
