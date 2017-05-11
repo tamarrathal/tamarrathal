@@ -1,31 +1,41 @@
 .contact-content{
   margin-right: auto;
   margin-left: auto;
-  width: 90%;
+  width: 80%;
 }
 
 .info a{
   margin-right: 20px;
   text-decoration: none;
-  font-size: 40px;
   text-align: center;
 }
 
+.contact-content .email{
+  font-size: 20px;
+}
+
+.contact-content .main{
+  border-bottom: 1px solid #ccc;
+}
+
+.info .social{
+  font-size: 20px;
+}
+
+.info .username{
+}
+
+.contact-content a{
+  color: #517a9e;
+}
+
+.social .username{
+  color: #517a9e;
+}
+
+.contact-content a:hover, .username:hover{
+  color: darken(#517a9e, 20%);
+}
+
 .info i{
-}
-
-.fa-facebook{
-  color: #3B5998;
-}
-
-.fa-skype{
-  color: #3B5998;
-}
-
-.fa-linkedin{
-  color: #0077B5
-}
-
-.fa-envelope{
-  color: #000;
 }
